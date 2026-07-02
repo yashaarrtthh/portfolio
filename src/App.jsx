@@ -11,10 +11,12 @@ import Education from './components/Education'
 import Certificates from './components/Certificates'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
+import CustomCursor from './components/CustomCursor'
 
 function App() {
   return (
     <>
+      <CustomCursor />
       <Preloader />
       <Navbar />
       <Hero />

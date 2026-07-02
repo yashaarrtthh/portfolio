@@ -4,8 +4,8 @@
 
 export const personalInfo = {
   name: "Yasharth Sharma",
-  firstName: "Yasharth",
-  brandName: "Yasharth",
+  firstName: "Yasharth Sharma",
+  brandName: "Yasharth Sharma",
   title: "Frontend Developer & Blockchain CSE Student",
   location: "Potheri, Chennai, Tamil Nadu 603203",
   phone: "+91 82796-56170",
@@ -19,9 +19,9 @@ export const personalInfo = {
 };
 
 export const socialLinks = {
-  github: "",
+  github: "https://github.com/yashaarrtthh",
   linkedin: "https://www.linkedin.com/in/yashaarrtthh",
-  instagram: "",
+  instagram: "https://www.instagram.com/yash.aarrtthh/",
 };
 
 export const heroContent = {
@@ -38,8 +38,8 @@ export const heroContent = {
 };
 
 export const aboutContent = {
-  heading: "Hello!",
-  bio: `Hi, my name is <span class="text-black text-xl font-black mx-1 tracking-wide uppercase">Yasharth Sharma</span>, a second-year B.Tech CSE student specialising in Blockchain Technology at SRM University, Chennai. I enjoy building frontend interfaces, exploring emerging technologies, and turning academic ideas into practical digital experiences.`,
+  heading: "Hello, Ladies and Gentlemen!",
+  bio: `My name is <span class="text-black text-xl font-black mx-1 tracking-wide uppercase">Yasharth Sharma</span>, a second-year B.Tech CSE student specialising in Blockchain Technology at SRM University, Chennai. I enjoy building frontend interfaces, exploring emerging technologies, and turning academic ideas into practical digital experiences.`,
   techStack: ["HTML", "JavaScript", "C++"],
 };
 
